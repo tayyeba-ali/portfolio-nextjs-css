@@ -18,13 +18,12 @@ export default function About() {
         </div>
         <div className="about-text">
           <p>
-            Welcome! I'm Tayyeba, a skilled frontend web developer dedicated to
-            building visually stunning and highly interactive websites. With a
-            keen eye for design and a deep understanding of user experience, I
-            create modern, responsive, and intuitive interfaces that enhance
-            digital experiences. My expertise lies in crafting clean, efficient
-            code and ensuring seamless functionality across all devices. Let’s
-            bring your vision to life with creativity and precision!
+            Welcome! I&apos;m Tayyeba Ali, a professional frontend web developer
+            with a passion for crafting visually captivating and highly
+            functional websites. My approach merges creativity with technical
+            precision, ensuring that each project looks exceptional and provides
+            a seamless, user-friendly experience. By focusing on clean, modern
+            design.
           </p>
 
           <p>
